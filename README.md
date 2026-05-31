@@ -1,5 +1,10 @@
 # Invoice Processing Workflow Optimization
 
+## Dashboard Preview
+
+![Invoice Dashboard](dashboard.png)
+
+
 ## Project Overview
 This project analyzes and improves the invoice processing workflow using Business Analysis techniques.
 
